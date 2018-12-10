@@ -8,6 +8,12 @@ var allCountries = [
           '+..-..-...-....'
        ],
        [
+          'Åland Islands',
+          'ax',
+          '358',
+          ''
+       ],
+       [
           'Albania (Shqipëri)',
           'al',
           '355',
@@ -42,6 +48,12 @@ var allCountries = [
           'ai',
           '1264',
           '+.(...)...-....'
+       ],
+       [
+          'Antarctica',
+          'aq',
+          '672',
+          ''
        ],
        [
           'Antigua and Barbuda',
@@ -162,6 +174,12 @@ var allCountries = [
           'bw',
           '267',
           '+...-..-...-...'
+       ],
+       [
+          'Bouvet Island',
+          'bv',
+          '47',
+          ''
        ],
        [
           'Brazil (Brasil)',
@@ -309,6 +327,18 @@ var allCountries = [
           'cn',
           '86',
           '+.. ..-........'
+       ],
+       [
+          'Christmas Island',
+          'cx',
+          '61',
+          ''
+       ],
+       [
+          'Cocos (Keeling) Islands',
+          'cc',
+          '61',
+          ''
        ],
        [
           'Colombia',
@@ -498,6 +528,12 @@ var allCountries = [
           '+...-..-..-..'
        ],
        [
+          'French Southern and Antarctic Lands',
+          'tf',
+          '262',
+          ''
+       ],
+       [
           'Gabon',
           'ga',
           '241',
@@ -571,6 +607,12 @@ var allCountries = [
           '+... ....-....'
        ],
        [
+          'Guernsey',
+          'gg',
+          '44',
+          ''
+       ],
+       [
           'Guinea (Guinée)',
           'gn',
           '224',
@@ -593,6 +635,12 @@ var allCountries = [
           'ht',
           '509',
           '+... ....-....'
+       ],
+       [
+          'Heard Island and McDonald Islands',
+          'hm',
+          '672',
+          ''
        ],
        [
           'Honduras',
@@ -649,6 +697,12 @@ var allCountries = [
           '+... .. .......'
        ],
        [
+          'Isle of Man',
+          'im',
+          '44',
+          ''
+       ],
+       [
           'Italy (Italia)',
           'it',
           '39',
@@ -666,6 +720,12 @@ var allCountries = [
           'jp',
           '81',
           '+.. ... .. ....'
+       ],
+       [
+          'Jersey',
+          'je',
+          '44',
+          ''
        ],
        [
           'Jordan (‫الأردن‬‎)',
@@ -691,6 +751,12 @@ var allCountries = [
           'ki',
           '686',
           '+...-..-...'
+       ],
+       [
+          'Kosovo',
+          'xk',
+          '383',
+          ''
        ],
        [
           'Kuwait (‫الكويت‬‎)',
@@ -829,6 +895,12 @@ var allCountries = [
           'mu',
           '230',
           '+...-...-....'
+       ],
+       [
+          'Mayotte',
+          'yt',
+          '262',
+          ''
        ],
        [
           'Mexico (México)',
@@ -1029,6 +1101,12 @@ var allCountries = [
           '+.. ... ....'
        ],
        [
+          'Pitcairn Islands',
+          'pn',
+          '64',
+          ''
+       ],
+       [
           'Poland (Polska)',
           'pl',
           '48',
@@ -1044,7 +1122,7 @@ var allCountries = [
           'Puerto Rico',
           'pr',
           '1',
-          '',
+          '+. (...) ...-....',
           3,
           [
              '787',
@@ -1215,6 +1293,12 @@ var allCountries = [
           '+..-..-...-....'
        ],
        [
+          'South Georgia and the South Sandwich Islands',
+          'gs',
+          '500',
+          ''
+       ],
+       [
           'South Korea (대한민국)',
           'kr',
           '82',
@@ -1249,6 +1333,12 @@ var allCountries = [
           'sr',
           '597',
           '+...-...-...'
+       ],
+       [
+          'Svalbard and Jan Mayen',
+          'sj',
+          '47',
+          ''
        ],
        [
           'Swaziland',
@@ -1396,6 +1486,12 @@ var allCountries = [
           0
        ],
        [
+          'United States Minor Outlying Islands',
+          'um',
+          '1',
+          ''
+       ],
+       [
           'Uruguay',
           'uy',
           '598',
@@ -1436,6 +1532,12 @@ var allCountries = [
           'Wallis and Futuna',
           'wf',
           '681',
+          '+...-..-....'
+       ],
+       [
+          'Western Sahara',
+          'eh',
+          '212',
           '+...-..-....'
        ],
        [
